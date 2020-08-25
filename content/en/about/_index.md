@@ -1,0 +1,44 @@
+---
+title: About
+linkTitle: About
+menu:
+  main:
+    weight: 10
+
+---
+
+
+{{< blocks/cover title="About" image_anchor="bottom" height="min" >}}
+
+<p class="lead mt-5">About the name von Laszewski.
+</p>
+
+{{< /blocks/cover >}}
+
+{{% blocks/lead %}}
+
+
+TBD
+ 
+{{% /blocks/lead %}}
+
+
+<!--
+{{< blocks/section >}}
+<div class="col-12">
+<h1 class="text-center">This is another section</h1>
+</div>
+
+{{< /blocks/section >}}
+
+
+
+{{< blocks/section >}}
+
+<div class="col-12">
+<h1 class="text-center">This is another section</h1>
+</div>
+
+{{< /blocks/section >}}
+
+-->
