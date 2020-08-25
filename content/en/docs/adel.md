@@ -1,5 +1,5 @@
 ---
-title: Deutsch-Polischer Adel
+title: Deutsch-Polnischer Adel
 ---
 
 
