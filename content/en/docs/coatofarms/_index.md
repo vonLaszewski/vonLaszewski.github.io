@@ -22,23 +22,34 @@ the original being Zelberschwecht Grzymala
 ![](grzymala.jpg)
 ![](okladka2.jpg)
 ![](okladka1.jpg)
+![](1024px-POL_COA_Grzymała.svg.png) [^1]
 
-## Post 1
+## Preussicher Adel
 
 origin: https://web.archive.org/web/20060430150519/http://zelberschwecht.com/history.html
 
 von Zelberschwecht - Laszewski see certificate by the German Emperor
 Wilhelm II 1887 v. Selberswech Laszewski, Marienburg, Poland, meeting
-hall of the Teutonic Knights. Laszewski de Silberschwecht -reference:
-general Illustrated Armorial by Victor & Henry Rolland, publ J>B>
+hall of the Teutonic Knights. Laszewski de Silberschwecht
+
+* Reference: General Illustrated Armorial by Victor & Henry Rolland, publ J>B>
 Rietstap Sauveguarde Historique, 142 Rue Crequi, 142 Lyon, France
 
-additional reference see also: http://home.foni.net/~adelsforschung/zurek05.htm best to have it translated into your language via Google or other. > AD 1400
+Newer edditions may be, but I am not sure which volume it is:
+
+* [Vol 1.](https://www.amazon.com/H-V-ROLLANDS-ILLUSTRATIONS-ARMORIAL-GENERAL/dp/1783311258/ref=pd_lpo_14_t_0/146-6576291-1280153?_encoding=UTF8&pd_rd_i=1783311258&pd_rd_r=6652bf6c-1a9d-497f-90d4-2816968f415b&pd_rd_w=SYezw&pd_rd_wg=tw2Vi&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=SSCK34925W8J1YKJZFSH&psc=1&refRID=SSCK34925W8J1YKJZFSH)
+* [Vol 2](https://www.barnesandnoble.com/w/v-hv-rollands-illustrations-to-the-armorial-general-volume-2-johannes-baptista-rietstap/1121113628)
+* [Vol 3](https://www.amazon.com/H-V-ROLLANDS-ILLUSTRATIONS-ARMORIAL-GENERAL/dp/1783311223)
+
+
+For additional reference see also: http://home.foni.net/~adelsforschung/zurek05.htm best to have it translated into your language via Google or other. > AD 1400
 
 also found references under Zylberschweg / Zelberszwecht / Zylberswech
 
-The legend of origin of the Grzymala clan who took over the same crest goes:
 
+## The Legend
+
+The legend of origin of the Grzymala clan who took over the same crest goes:
 
 Some authorities believe that this coat of arms was brought to Poland
 from Germany by a knight named Zylberschweg or Zelberszwecht. It is,
@@ -1501,61 +1512,66 @@ Selberschwech, v. Zylberschweg or v. Zelberszwecht)**
 | ----- | -----|
 | German surname before the change of territory to Poland | converted Polish name after 1500 |
 | ----- | -----|
-v.Bach                 | Gowinski, Lewisnki, Paraski, Pobolski, Zelewski
-v.Burtscheid           | Borzuta and with the surname Komierowski
-v.Dienheim             | Chotomski
-zu Dohna               | Borziskowski
-v.Ende                 | Koniecki
-v.Eppingen             | Borzeczowski
-v.Essen                | Kistowski
-v.Glasenapp            | Glisminski
-v.Goltstein            | Kossowski
-v.Hagenau              | Zalinski
-v.Haugwitz             | Pawlowski
-v.Helden               | Sarnowski, Gosiorowski, Komarczewski, Przisiorowski, Gowrczewski
-v.Holdau               | Lubodski
-v.Horn                 | Rogowski (translation into the Polish)
-v.Hutten               | Czapski (translation into the Polish)
-v.Kalkstein            | Kobilinski, Oslowski, Stolinski (partly already by 1400 Poland)
-v.Kospoth              | Pawlowski, Lipinski
-v.Kottwitz             | Krzycki
-v.Krockow              | Krokowski, Krukowski (version of the aristocracy Polish designation)
-v.Manteuff|el          | Keel pin Kiel
-v.Massow               | Czudnochowski
-v.Nostitz              | Bakowski, Jackowski, Tokarski
-v.Ostan                | Lninski
-v.Oppeln               | Bronikowski
-v.Platen               | Lninski
-v.Rabenstein           | Gnoynicki
-v.Rautenberg           | Garczynski, Klinski
-v.Rohr                 | Trczinski (translation into the Polish)
-v.Schleinitz           | Polarizing min ski
-v.Schlewitz            | Konarski
-v.Schoenbeck           | Szembek
-v.Schoenfeld           | Krupocki
-v.Seibersdorf          | Sartwaski
-v.Silberschwecht       | Laszewski
-v.Stangen              | Meldzynski
-v.Stein                | Kamienski (translation into the Polish)
-v.Stojentin            | Wonglikowski
-v.Stumberg             | Sychowski
-v.Tornow               | Turno, Turnowski (version of the aristocracy Polish designation)
-v.Weiden               | Butowski
-v.Wedell               | Tuczynski
-v.Wensing              | Waldowski
-more v.Zanthier        | Woiski, Zantir
-v.Zehmen               | Cema (version of the aristocracy Polish designation) 
+| v.Bach                 | Gowinski, Lewisnki, Paraski, Pobolski, Zelewski |
+| v.Burtscheid           | Borzuta and with the surname Komierowski |
+| v.Dienheim             | Chotomski |
+| zu Dohna               | Borziskowski |
+| v.Ende                 | Koniecki |
+| v.Eppingen             | Borzeczowski |
+| v.Essen                | Kistowski |
+| v.Glasenapp            | Glisminski |
+| v.Goltstein            | Kossowski |
+| v.Hagenau              | Zalinski |
+| v.Haugwitz             | Pawlowski |
+| v.Helden               | Sarnowski, Gosiorowski, Komarczewski, Przisiorowski, Gowrczewski |
+| v.Holdau               | Lubodski |
+| v.Horn                 | Rogowski (translation into the Polish) |
+| v.Hutten               | Czapski (translation into the Polish) |
+| v.Kalkstein            | Kobilinski, Oslowski, Stolinski (partly already by 1400 Poland) |
+| v.Kospoth              | Pawlowski, Lipinski |
+| v.Kottwitz             | Krzycki |
+| v.Krockow              | Krokowski, Krukowski (version of the aristocracy Polish designation) |
+| v.Manteuff|el          | Keel pin Kiel |
+| v.Massow               | Czudnochowski |
+| v.Nostitz              | Bakowski, Jackowski, Tokarski |
+| v.Ostan                | Lninski |
+| v.Oppeln               | Bronikowski |
+| v.Platen               | Lninski |
+| v.Rabenstein           | Gnoynicki |
+| v.Rautenberg           | Garczynski, Klinski |
+| v.Rohr                 | Trczinski (translation into the Polish) |
+| v.Schleinitz           | Polarizing min ski |
+| v.Schlewitz            | Konarski |
+| v.Schoenbeck           | Szembek |
+| v.Schoenfeld           | Krupocki |
+| v.Seibersdorf          | Sartwaski |
+| v.Silberschwecht       | Laszewski |
+| v.Stangen              | Meldzynski |
+| v.Stein                | Kamienski (translation into the Polish) |
+| v.Stojentin            | Wonglikowski |
+| v.Stumberg             | Sychowski |
+| v.Tornow               | Turno, Turnowski (version of the aristocracy Polish designation) |
+| v.Weiden               | Butowski |
+| v.Wedell               | Tuczynski |
+| v.Wensing              | Waldowski |
+| more v.Zanthier        | Woiski, Zantir |
+| v.Zehmen               | Cema (version of the aristocracy Polish designation)  |
 | ----- | -----|
 
 ## Post x
 
 Gregor found:
 
-http://www.mgh-bibliothek.de/dokumente/a/a095235.pdf
+https://en.wikipedia.org/wiki/Grzyma%C5%82a_coat_of_arms#:~:text=It%20is%2C%20however%2C%20one%20of,was%20Grzyma%C5%82a%20(for%20Thunder).&text=The%20coat%20of%20arms%20was,arm%20held%20a%20raised%20sword.
 
 http://home.foni.net/~adelsforschung/huld.htm
+
 
 http://www.familie-von-klinski.de/index.php?page=forschung&subpage=2
 
 https://www.wikizero.com/de/Stefan_von_Laszewski
+
+[^1]: http://www.mgh-bibliothek.de/dokumente/a/a095235.pdf
+1024px-POL_COA_Grzymała.svg.png, From Projekt graficzny: Tadeusz Gajl, :POL COA blank.svg: Tadeusz Gajl, vector version: Bastian, Other elements: Avalokitesvara Diese W3C-unbestimmte Vektorgrafik wurde mit Inkscape erstellt. - Herbarz polski od średniowiecza do XX wieku, Tadeusz Gajl, Gdańsk 2007
+
 
