@@ -180,7 +180,7 @@ Zarnowiecki, Zut.
 
 Origin: https://web.archive.org/web/20200220154802/http://zelberschwecht.com/zelberref.html
 
-reference to von Zelberschwecht - Laczewski on the Internet
+reference to von Zelberschwecht - Laszewski on the Internet
 
 http://pom-wpru.kerntopf.com/literatur/n_heidn1.htm Namenverzeichnis
 der Publikation "Ortschaften des Kreises Karthaus von Willy Heidn" >
